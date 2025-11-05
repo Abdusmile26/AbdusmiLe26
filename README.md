@@ -2,9 +2,8 @@
 
 <!-- 🖼️ Header / Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/qmHPg3P.png" alt="Abdelmutalib Salih Ibrahim Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Abdusmile26/Abdusmile26/main/اسم-الصورة.png" alt="Abdelmutalib Salih Ibrahim Banner" width="100%">
 </p>
-
 <h1 align="center">👋 Hi, I'm Abdelmutalib Salih Ibrahim</h1>
 <h3 align="center">
 🌍 Arabic Language Specialist | 🤖 AI & Technology Freelancer | 💬 ChatGPT & Copilot Expert
