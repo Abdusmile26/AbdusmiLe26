@@ -2,8 +2,9 @@
 
 <!-- 🖼️ Header / Banner -->
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/Abdusmile26/Abdusmile26/main/اA_digital_graphic_design_banner_features_Abdelmuta.pngalt="Abdelmutalib Salih Ibrahim Banner](https://raw.githubusercontent.com/Abdusmile26/AbdusmiLe26/refs/heads/main/A_digital_graphic_design_banner_features_Abdelmuta.png)" width="100%">
+  <img src="https://raw.githubusercontent.com/Abdusmile26/AbdusmiLe26/main/A_digital_graphic_design_banner_features_Abdelmuta.png" alt="Abdelmutalib Salih Ibrahim Banner" width="100%">
 </p>
+
 <h1 align="center">👋 Hi, I'm Abdelmutalib Salih Ibrahim</h1>
 <h3 align="center">
 🌍 Arabic Language Specialist | 🤖 AI & Technology Freelancer | 💬 ChatGPT & Copilot Expert
